@@ -1,0 +1,6 @@
+run below cmd to install keras & tensorflow
+
+
+pip install keras
+
+pip install tensorflow
